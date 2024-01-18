@@ -1,0 +1,37 @@
+Japan earthquake: The tiny firm that alerts millions about disasters
+By Mariko Oi
+BBC News
+6 January 2024
+When a 7.6 magnitude earthquake hit Japan's remote Noto peninsula on New Year's Day, millions of people were alerted by a small company that has been punching above its weight for years now.
+NERV is run by a small private firm called Gehirn - meaning brain in German - with just 13 full-time staff.
+Still, its warnings of Japan's frequent earthquakes are often faster than those issued by official bodies and the country's public broadcaster, NHK.
+NERV's Japanese-language account on X (formerly Twitter) has 2.2 million followers while another 35,000 people use it in English. Its app, which was launched in September 2019, has been downloaded more than four million times from both the Apple Store and Google Play.
+It was created in 2010 as an account by then 19-year-old Daiki Ishimori.
+X is huge in Japan and is the go-to social media platform for disaster information in the country - especially since the 2011 earthquake and tsunami.
+As well as offering real-time information on earthquakes, tsunamis and volcanic eruptions NERV also provides updates on extreme weather events like typhoons, flooding and heavy snow.
+The account collates and tweets out data from a number of agencies that track natural disasters - often releasing information faster than even they do.
+Mr Ishimori said NERV is heavily influenced by hit anime TV show Neon Genesis Evangelion, which is set in a post-apocalyptic world after half of the human population has been wiped out.
+The account's name "special service agency NERV" is a nod to an organisation in the show that issues alerts about threats to humankind.
+"I created NERV as a parody account because Twitter was getting popular at the time," Mr Ishimori tells the BBC.
+"It started as my programming hobby to post automated tweets about weather alerts using the Japan Meteorological Agency data."
+At the time, the account only had around 300 followers.
+But then in 2011, Japan's most powerful earthquake on record struck.
+Best known for triggering a tsunami that caused a nuclear accident in Fukushima, the quake also caused great loss of life in his hometown Ishinomaki in Miyagi in the north-east of the country.
+For four days, Mr Ishimori was unable to contact his family. "To be honest, I thought they must be dead," he recalls. He later found out that while his immediate family was safe, one of his aunts had died.
+"I realised we needed to have other ways - not just TV and radio - to communicate disaster information," he says, as TV became useless during power cuts.
+He started posting about earthquakes, and as Japan experienced more natural disasters, the account added hundreds of thousands of new followers.
+However, recent changes to X had an impact on NERV during the New Year's Day earthquake.
+Last year, X started charging users to access its application programming interface (API), which links X to external systems and enables automated posts on the platform.
+The platform's API was previously free to use, but now only allows up to 1,500 free automated posts a month.
+Gehirn subscribes to a basic plan, which allows 100 posts a day for $100 (£79) a month.
+When it sent out earthquake and tsunami alerts on Monday, NERV said it appeared to have hit this cap and encouraged its followers to download its app.
+Several hours later, it said that X had registered its accounts - both in Japanese and English - as "public utility", which resolved the issue.
+But NERV had already started shifting away from the platform in 2019 when its account was locked for several hours during an earthquake.
+"If we are on other people's platforms, their rules can suddenly change so we want to focus on our own platform," Mr Ishimori says.
+He says his mission has always been to "make Japan safer" - not make money, adding he aims to make the NERV app as accessible as possible, including for those with disabilities.
+However, Mr Ishimori acknowledges that as the app grows his company needs to bring in money.
+The firm started a paid membership scheme called the "supporters' club" in 2020 to cover its costs, which currently stands at around 120 million yen ($829,200; £653,172) a year.
+"We are still far from making money," says Mr Ishimori, adding that about a third of its running costs are funded by supporters.
+"The more funding we get, the more new information we buy so that is why we are still in the red," he laughs.
+Mr Ishimori says he continues to be driven by the guilt of not being able to help his aunt in 2011.
+"We know that there will be another big earthquake and big tsunami. My mission is to solve the accessibility of our disaster information by then."
