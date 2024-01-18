@@ -1,0 +1,19 @@
+# Earthquake in Gansu,China and Japan published on BBC NEWS with Corpus Analysis *
+## Introduction ##
+When it comes to natural calamities,the seismic tremors that shake the earth's foundation not only leave physical scars on the affected regions but also reverberate throughout human history. This research project aims to conduct a textual analysis of BBC News coverage on earthquakes in Gansu (China) and Japan delving into the language employed in a total of 14 selected news articles from BBC News—three focusing on the Gansu Earthquake and eleven on earthquakes in Japan. The primary objective is to compare and analyze the word frequency, parts of speech, and linguistic distribution across these articles, gaining insights into the international media's reporting attitudes, perspectives, and language choices when earthquakes occur in different regions. 
+
+## Research Question ##
+The central research question guiding this investigation is  "How does the linguistic representation differ between Gansu and Japan earthquake reports?"  Leveraging natural language processing methods, particularly spaCy, this research seeks to disentangle the linguistic components embedded in the articles.
+
+The analysis aims to identify nuanced details and overall themes that underlie the portrayal of global efforts following the Gansu and Japan earthquakes and draw comparisons between the earthquake reports of Gansu and Japan.  The choice of BBC News as the primary source ensures a globally informed perspective, providing a comprehensive understanding of how language in media narratives contributes to shaping perceptions of the international community's role in disaster response.
+
+This investigation not only contributes to the discourse on media representation but also offers insights into the dynamics of global collaboration during times of crisis, comparing language usage across different seismic events.  The final objective of this investigation is to unravel the linguistic tapestry woven through these pieces, gaining a deeper comprehension of how language influences and reflects our perception of the global community's response to earthquakes in distinct regions.  
+
+## Conclusion ##
+In conclusion, the comparative analysis of word frequency distribution in BBC News articles on the Gansu and Japan earthquakes reveals notable differences in linguistic representation.  The word frequency breakdown indicates that certain terms are more prominently featured in one article than the other.
+
+For the Gansu Earthquake reports, key terms such as "Gansu," "earthquake," and "rescuers" stand out, highlighting a focus on the specific location, the seismic event itself, and the efforts of those involved in rescue operations.  On the other hand, the Japan earthquake reports emphasize terms like "Japan," "earthquake," and "japans," underlining the geographical context and the seismic nature of the incidents in Japan.
+
+The overall word frequency analysis showcases commonalities in terms such as "people," "rescue," and "earthquake," reflecting the universal aspects of disaster reporting.  Additionally, the prominence of terms like "tsunami," "magnitude," and "province" in the Japan earthquake reports suggests a nuanced exploration of the unique challenges posed by the seismic events in Japan, such as the tsunami threat and the impact on specific regions.
+
+These findings contribute to a nuanced understanding of the linguistic choices made in media narratives covering distinct earthquake events.  The differences in word frequency distribution shed light on the varying emphases and perspectives taken by BBC News in portraying the international community's response to earthquakes in Gansu and Japan.  Further analysis, including examination of specific lexical choices and sentiment analysis, would provide deeper insights into the linguistic nuances influencing media representation of seismic events on the global stage.
